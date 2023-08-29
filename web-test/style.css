@@ -1,0 +1,14 @@
+ @charset "utf-8";
+
+.box, .box2{
+  width: 200px;
+  height: 200px;
+  background-color: #aaa;
+  border: 10px solid #000;
+  padding: 50px;
+}
+
+.box {
+  margin-bottom: 20px;
+}
+
